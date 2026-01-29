@@ -1,4 +1,5 @@
-.env
 tmp
 logs/*
 logs/access/access.log
+config.bat
+node_modules
